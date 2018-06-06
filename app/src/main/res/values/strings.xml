@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="password_was_copied">Password was copied</string>
+    <string name="login_was_copied">Login was copied</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="copy_login">Copy login</string>
+    <string name="password_dialog_create_text">Please create password for protecting information</string>
+    <string name="password_dialog_create_text_empty_case">Please don\'t use empty password</string>
+    <string name="password_dialog_wrong_password_text">Wrong password. Try again</string>
+    <string name="password_dialog_enter_password">Enter password</string>
+    <string name="password_dialog_create_text_empty_pass_try">Please don\'t try to confirm empty password</string>
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+    <string name="create">Create</string>
+    <string name="ok">Ok</string>
+    <string name="mask_text">******</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="use_fingerprint">Use fingerprint</string>
+    <string name="fingerprint_authentication">Fingerprint authentication</string>
+    <string name="use_password">Use password</string>
+</resources>
